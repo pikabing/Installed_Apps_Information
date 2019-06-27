@@ -1,6 +1,7 @@
 # Installed_Apps_Information
 This app lists all apps installed in your phone and shows info like permissions, launch activity, package name, recievers and services relating to the corresponding app.
 
+![Alt text]("screenshots/emptyview_screen.png" "Title")
 
 Below are the screenshots:
 
